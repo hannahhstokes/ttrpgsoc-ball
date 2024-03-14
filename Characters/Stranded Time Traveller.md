@@ -1,9 +1,10 @@
-| Key             | Value(s) |
-| --------------- | -------- |
-| Actor           | Liv      |
-| Ideals/Keywords |          |
-| Alibi           |          |
-| Location        |          |
-| Goals/Tasks     |          |
-| Relationships   |          |
-| Rumours         |          |
+| Key             | Value(s)                                                                                                                                                                                                                                                        |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Actor           | Liv                                                                                                                                                                                                                                                             |
+| Ideals/Keywords | anachronistic, returning home, dismissive,                                                                                                                                                                                                                      |
+| Alibi           |                                                                                                                                                                                                                                                                 |
+| Location        | 1/2 - MAKE SURE the inventor DOES NOT get married as it causes a terrible alternate timeline.<br>1/2 - The [[Lawyer]] becomes a great dictator in the future. Try to set them on the path of redemption.<br>2/2 - Collect your pocket watch from [[Collector]]. |
+| Goals/Tasks     |                                                                                                                                                                                                                                                                 |
+| Relationships   | distrusting of [[Vampire]]<br>                                                                                                                                                                                                                                  |
+| Rumours         |                                                                                                                                                                                                                                                                 |
+|                 |                                                                                                                                                                                                                                                                 |
