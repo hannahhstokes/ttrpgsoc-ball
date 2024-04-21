@@ -8,3 +8,4 @@
 | Goals/Tasks      | 1/2 - Meet and then compete with the [[Roman Centurion]] and [[Army Sergeant]] to catch the "biggest crook".<br>1/2 - Engage in a quick-draw duel with The [[Inventor]].<br>2/2 - |
 | Relationships    |                                                                                                                                                                                   |
 | Rumours          | - You have been accidentally transported in time due to a malfunction in the [[Stranded Time Traveller]]'s time machine.                                                          |
+| Clues            |                                                                                                            

@@ -9,3 +9,4 @@
 | Mini Tasks       | - Be WAY too into who murdered the.                     |
 | Relationships    |                                                         |
 | Rumours          |                                                         |
+| Clues            |                                                                                                            

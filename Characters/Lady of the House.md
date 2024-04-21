@@ -9,3 +9,4 @@
 | Mini Tasks       |          |
 | Relationships    |          |
 | Rumours          |          |
+| Clues            |                                                                                                            
